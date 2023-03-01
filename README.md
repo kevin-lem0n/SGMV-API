@@ -1,5 +1,5 @@
-# SGMV-API
-Singapore Mobile Number Validation API.
+# Singapore Mobile Number Validation API
+
 API for checking the format validity of Singapore mobile number, an alternative to regex (Regular Expression).
 
 [Demo Website](https://sgmv-api.kevinlem0n.repl.co/) (Can be tested by using **Postman**).
