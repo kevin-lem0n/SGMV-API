@@ -27,7 +27,7 @@ When a **GET** request is sent **with** an invalid mobile number e.g `localhost:
 When a **GET** request is sent **with** a mobile number that is too long e.g `localhost:3000/check/987654321`(more than 8 digits), an **error** message will be returned.
 ![image](https://user-images.githubusercontent.com/126497052/222048910-5350bc7c-e969-4862-b3f7-02afc6a593a1.png)
 
-When a **GET** request is sent to an invalid link e.g `localhost:3000/1234 `(link does not exists), an **error 404 page** will be returned.
+When a **GET** request is sent to an invalid link e.g `localhost:3000/123`(link does not exists), an **error 404 page** will be returned.
 ![image](https://user-images.githubusercontent.com/126497052/222050277-86de65f0-0e00-41a9-9050-f070135c67e4.png)
 
 The end.
